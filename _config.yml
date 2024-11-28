@@ -23,8 +23,8 @@ email: jguti39@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The purpose of this site is to document and show multiple account of
   Big Foot sightings across the United States.
-baseurl: /juliangut2.github.io # the subpath of your site, e.g. /blog
-url: https://juliangut2.github.io/juliangut2.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /JulianGut2.github.io # the subpath of your site, e.g. /blog
+url: http://juliangut2.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JulianGut2
 
 # Build settings
